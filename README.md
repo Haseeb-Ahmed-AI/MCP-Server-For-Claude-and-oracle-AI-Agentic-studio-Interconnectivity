@@ -1,4 +1,4 @@
-# mcp-oracle-demo
+# mcp-oracle-claude desktop
 
 A local MCP (Model Context Protocol) server that exposes customer data as
 queryable tools, so Claude can answer natural language questions about
