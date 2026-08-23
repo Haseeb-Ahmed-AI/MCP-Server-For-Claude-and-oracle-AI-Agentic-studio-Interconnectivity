@@ -151,3 +151,4 @@ bottom of `src/data_source.ts`.
 
 This is a plain script (no test framework) so it's easy to read and
 explain line-by-line in a screen-share demo.
+=======
