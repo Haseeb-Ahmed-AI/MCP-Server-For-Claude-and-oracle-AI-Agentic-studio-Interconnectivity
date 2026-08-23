@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "CUST-0001",
+    "name": "Sophia Martin",
+    "email": "sophia.martin@example.com",
+    "phone": "+1-855-773-6432",
+    "company": "Dunder Mifflin",
+    "signup_date": "2022-07-01",
+    "status": "active",
+    "total_orders": 5,
+    "lifetime_value": 2551.14,
+    "orders": [
+      {
+        "order_id": "ORD-001-01",
+        "date": "2023-09-13",
+        "product": "Onboarding & Training Package",
+        "amount": 743.18,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-001-03",
+        "date": "2024-11-21",
+        "product": "Premium Support Package",
+        "amount": 831.82,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-001-04",
+        "date": "2025-01-20",
+        "product": "API Access Bundle",
+        "amount": 466.46,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-001-02",
+        "date": "2025-04-10",
+        "product": "Priority Support Upgrade",
+        "amount": 348.74,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-001-05",
+        "date": "2026-01-21",
+        "product": "Enterprise License - Annual",
+        "amount": 160.94,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0002",
+    "name": "Sophia Wilson",
+    "email": "sophia.wilson@example.com",
+    "phone": "+1-700-886-5062",
+    "company": "Cyberdyne Systems",
+    "signup_date": "2024-02-23",
+    "status": "active",
+    "total_orders": 2,
+    "lifetime_value": 728.07,
+    "orders": [
+      {
+        "order_id": "ORD-002-01",
+        "date": "2025-03-14",
+        "product": "Onboarding & Training Package",
+        "amount": 728.07,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-002-02",
+        "date": "2025-07-25",
+        "product": "Enterprise License - Monthly",
+        "amount": 122.23,
+        "status": "refunded"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0003",
+    "name": "Ryan Walker",
+    "email": "ryan.walker@example.com",
+    "phone": "+1-793-211-7981",
+    "company": "Umbrella Corp",
+    "signup_date": "2020-06-10",
+    "status": "active",
+    "total_orders": 6,
+    "lifetime_value": 2668.06,
+    "orders": [
+      {
+        "order_id": "ORD-003-05",
+        "date": "2020-12-26",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 111.98,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-003-01",
+        "date": "2021-09-28",
+        "product": "API Access Bundle",
+        "amount": 782.65,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-003-04",
+        "date": "2022-02-18",
+        "product": "Onboarding & Training Package",
+        "amount": 38.94,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-003-06",
+        "date": "2023-05-23",
+        "product": "Extended Warranty",
+        "amount": 555.04,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-003-03",
+        "date": "2024-09-11",
+        "product": "API Access Bundle",
+        "amount": 617.16,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-003-02",
+        "date": "2025-03-09",
+        "product": "Enterprise License - Annual",
+        "amount": 562.29,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0004",
+    "name": "Emma Allen",
+    "email": "emma.allen@example.com",
+    "phone": "+1-497-726-0936",
+    "company": "Bluth Company",
+    "signup_date": "2025-04-03",
+    "status": "inactive",
+    "total_orders": 0,
+    "lifetime_value": 0,
+    "orders": []
+  },
+  {
+    "id": "CUST-0005",
+    "name": "Sophia Harris",
+    "email": "sophia.harris@example.com",
+    "phone": "+1-864-482-0223",
+    "company": "Globex Corp",
+    "signup_date": "2024-04-27",
+    "status": "churned",
+    "total_orders": 3,
+    "lifetime_value": 1863.93,
+    "orders": [
+      {
+        "order_id": "ORD-005-02",
+        "date": "2024-10-20",
+        "product": "Onboarding & Training Package",
+        "amount": 649.22,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-005-01",
+        "date": "2025-01-14",
+        "product": "Enterprise License - Annual",
+        "amount": 856.35,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-005-03",
+        "date": "2025-05-29",
+        "product": "Premium Support Package",
+        "amount": 358.36,
+        "status": "cancelled"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0006",
+    "name": "Sophia Young",
+    "email": "sophia.young@example.com",
+    "phone": "+1-953-313-2025",
+    "company": null,
+    "signup_date": "2023-12-23",
+    "status": "inactive",
+    "total_orders": 1,
+    "lifetime_value": 490.94,
+    "orders": [
+      {
+        "order_id": "ORD-006-01",
+        "date": "2024-01-23",
+        "product": "Enterprise License - Monthly",
+        "amount": 490.94,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0007",
+    "name": "Emma Jackson",
+    "email": "emma.jackson@example.com",
+    "phone": "+1-560-397-8748",
+    "company": "Initech",
+    "signup_date": "2022-06-29",
+    "status": "active",
+    "total_orders": 3,
+    "lifetime_value": 910.5,
+    "orders": [
+      {
+        "order_id": "ORD-007-01",
+        "date": "2024-02-24",
+        "product": "Extended Warranty",
+        "amount": 200.48,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-007-03",
+        "date": "2024-11-11",
+        "product": "Enterprise License - Monthly",
+        "amount": 458.48,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-007-02",
+        "date": "2026-02-15",
+        "product": "Pro Widget Kit",
+        "amount": 251.54,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0008",
+    "name": "Thomas Jones",
+    "email": "thomas.jones@example.com",
+    "phone": "+1-698-476-6359",
+    "company": "Northwind Traders",
+    "signup_date": "2022-12-23",
+    "status": "active",
+    "total_orders": 2,
+    "lifetime_value": 848.21,
+    "orders": [
+      {
+        "order_id": "ORD-008-02",
+        "date": "2023-06-02",
+        "product": "API Access Bundle",
+        "amount": 35.66,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-008-01",
+        "date": "2023-11-05",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 812.55,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0009",
+    "name": "Ava Thompson",
+    "email": "ava.thompson@example.com",
+    "phone": "+1-559-241-9645",
+    "company": "Stark Industries",
+    "signup_date": "2024-03-14",
+    "status": "active",
+    "total_orders": 6,
+    "lifetime_value": 3860.21,
+    "orders": [
+      {
+        "order_id": "ORD-009-04",
+        "date": "2024-09-04",
+        "product": "Custom Integration Service",
+        "amount": 875.8,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-009-06",
+        "date": "2024-09-05",
+        "product": "Priority Support Upgrade",
+        "amount": 498.03,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-009-03",
+        "date": "2024-12-22",
+        "product": "Standard Widget Kit",
+        "amount": 618.26,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-009-05",
+        "date": "2026-02-10",
+        "product": "Data Migration Service",
+        "amount": 701.04,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-009-01",
+        "date": "2026-04-16",
+        "product": "Custom Integration Service",
+        "amount": 310.47,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-009-02",
+        "date": "2026-04-26",
+        "product": "Widget Maintenance Plan",
+        "amount": 856.61,
+        "status": "shipped"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0010",
+    "name": "James Brown",
+    "email": "james.brown@example.com",
+    "phone": "+1-870-449-0209",
+    "company": "Hooli",
+    "signup_date": "2020-04-05",
+    "status": "active",
+    "total_orders": 4,
+    "lifetime_value": 870.07,
+    "orders": [
+      {
+        "order_id": "ORD-010-04",
+        "date": "2021-04-29",
+        "product": "Custom Integration Service",
+        "amount": 391.06,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-010-01",
+        "date": "2022-01-10",
+        "product": "Priority Support Upgrade",
+        "amount": 714.87,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-010-02",
+        "date": "2024-11-30",
+        "product": "Premium Support Package",
+        "amount": 279.57,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-010-03",
+        "date": "2025-03-23",
+        "product": "Enterprise License - Monthly",
+        "amount": 199.44,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0011",
+    "name": "Matthew Smith",
+    "email": "matthew.smith@example.com",
+    "phone": "+1-768-457-5775",
+    "company": "Stark Industries",
+    "signup_date": "2024-10-28",
+    "status": "active",
+    "total_orders": 6,
+    "lifetime_value": 2483.11,
+    "orders": [
+      {
+        "order_id": "ORD-011-06",
+        "date": "2025-02-25",
+        "product": "Priority Support Upgrade",
+        "amount": 696.44,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-011-01",
+        "date": "2025-04-24",
+        "product": "API Access Bundle",
+        "amount": 701.47,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-011-04",
+        "date": "2025-10-06",
+        "product": "Premium Support Package",
+        "amount": 892.11,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-011-05",
+        "date": "2025-10-25",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 352.65,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-011-02",
+        "date": "2025-11-01",
+        "product": "Widget Maintenance Plan",
+        "amount": 193.09,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-011-03",
+        "date": "2026-06-30",
+        "product": "Premium Support Package",
+        "amount": 406.86,
+        "status": "refunded"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0012",
+    "name": "James Miller",
+    "email": "james.miller@example.com",
+    "phone": "+1-372-215-0885",
+    "company": "Stark Industries",
+    "signup_date": "2020-01-31",
+    "status": "active",
+    "total_orders": 7,
+    "lifetime_value": 2248.53,
+    "orders": [
+      {
+        "order_id": "ORD-012-02",
+        "date": "2022-03-17",
+        "product": "Enterprise License - Monthly",
+        "amount": 596.61,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-012-06",
+        "date": "2022-12-07",
+        "product": "Enterprise License - Annual",
+        "amount": 251.2,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-012-05",
+        "date": "2023-03-05",
+        "product": "Extended Warranty",
+        "amount": 192.18,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-012-01",
+        "date": "2023-11-06",
+        "product": "Data Migration Service",
+        "amount": 854.53,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-012-04",
+        "date": "2024-08-25",
+        "product": "API Access Bundle",
+        "amount": 826.75,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-012-07",
+        "date": "2025-04-10",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 74.53,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-012-03",
+        "date": "2026-02-15",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 558.46,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0013",
+    "name": "Megan Johnson",
+    "email": "megan.johnson@example.com",
+    "phone": "+1-842-793-1117",
+    "company": "Soylent Corp",
+    "signup_date": "2024-10-22",
+    "status": "inactive",
+    "total_orders": 0,
+    "lifetime_value": 0,
+    "orders": []
+  },
+  {
+    "id": "CUST-0014",
+    "name": "Thomas Martinez",
+    "email": "thomas.martinez@example.com",
+    "phone": "+1-973-665-5078",
+    "company": "Bluth Company",
+    "signup_date": "2022-07-07",
+    "status": "churned",
+    "total_orders": 3,
+    "lifetime_value": 1376.07,
+    "orders": [
+      {
+        "order_id": "ORD-014-02",
+        "date": "2023-12-02",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 126.05,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-014-01",
+        "date": "2025-12-30",
+        "product": "Widget Maintenance Plan",
+        "amount": 624.31,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-014-03",
+        "date": "2026-03-02",
+        "product": "Widget Maintenance Plan",
+        "amount": 625.71,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0015",
+    "name": "Matthew Robinson",
+    "email": "matthew.robinson@example.com",
+    "phone": "+1-346-206-4125",
+    "company": "Cyberdyne Systems",
+    "signup_date": "2021-09-01",
+    "status": "inactive",
+    "total_orders": 2,
+    "lifetime_value": 1100.66,
+    "orders": [
+      {
+        "order_id": "ORD-015-01",
+        "date": "2022-09-12",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 383.23,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-015-02",
+        "date": "2026-05-16",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 717.43,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0016",
+    "name": "William Clark",
+    "email": "william.clark@example.com",
+    "phone": "+1-986-379-4758",
+    "company": "Dunder Mifflin",
+    "signup_date": "2024-11-26",
+    "status": "churned",
+    "total_orders": 2,
+    "lifetime_value": 874.34,
+    "orders": [
+      {
+        "order_id": "ORD-016-01",
+        "date": "2025-11-20",
+        "product": "Standard Widget Kit",
+        "amount": 197.12,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-016-02",
+        "date": "2026-02-27",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 677.22,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0017",
+    "name": "Grace Thompson",
+    "email": "grace.thompson@example.com",
+    "phone": "+1-374-700-4101",
+    "company": "Aperture Science",
+    "signup_date": "2023-02-21",
+    "status": "active",
+    "total_orders": 2,
+    "lifetime_value": 1058.72,
+    "orders": [
+      {
+        "order_id": "ORD-017-01",
+        "date": "2024-02-18",
+        "product": "Standard Widget Kit",
+        "amount": 250.27,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-017-02",
+        "date": "2025-12-22",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 808.45,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0018",
+    "name": "Emily Thomas",
+    "email": "emily.thomas@example.com",
+    "phone": "+1-298-955-6683",
+    "company": "Cyberdyne Systems",
+    "signup_date": "2021-04-08",
+    "status": "active",
+    "total_orders": 6,
+    "lifetime_value": 3259.18,
+    "orders": [
+      {
+        "order_id": "ORD-018-02",
+        "date": "2021-04-27",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 305.8,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-018-01",
+        "date": "2022-11-21",
+        "product": "Enterprise License - Annual",
+        "amount": 634.58,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-018-04",
+        "date": "2023-10-26",
+        "product": "Data Migration Service",
+        "amount": 706.27,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-018-05",
+        "date": "2025-07-10",
+        "product": "API Access Bundle",
+        "amount": 53.74,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-018-06",
+        "date": "2026-01-27",
+        "product": "Data Migration Service",
+        "amount": 822.04,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-018-03",
+        "date": "2026-01-29",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 790.49,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0019",
+    "name": "Megan Walker",
+    "email": "megan.walker@example.com",
+    "phone": "+1-897-945-2223",
+    "company": null,
+    "signup_date": "2020-07-22",
+    "status": "inactive",
+    "total_orders": 0,
+    "lifetime_value": 0,
+    "orders": []
+  },
+  {
+    "id": "CUST-0020",
+    "name": "Olivia Anderson",
+    "email": "olivia.anderson@example.com",
+    "phone": "+1-594-456-3295",
+    "company": "Umbrella Corp",
+    "signup_date": "2024-04-20",
+    "status": "active",
+    "total_orders": 2,
+    "lifetime_value": 580.58,
+    "orders": [
+      {
+        "order_id": "ORD-020-02",
+        "date": "2025-01-05",
+        "product": "Cloud Storage Add-on 100GB",
+        "amount": 428.19,
+        "status": "shipped"
+      },
+      {
+        "order_id": "ORD-020-01",
+        "date": "2025-07-01",
+        "product": "Standard Widget Kit",
+        "amount": 152.39,
+        "status": "processing"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0021",
+    "name": "Ava Rodriguez",
+    "email": "ava.rodriguez@example.com",
+    "phone": "+1-394-478-0412",
+    "company": "Wayne Enterprises",
+    "signup_date": "2022-05-10",
+    "status": "churned",
+    "total_orders": 3,
+    "lifetime_value": 1518.43,
+    "orders": [
+      {
+        "order_id": "ORD-021-01",
+        "date": "2023-06-10",
+        "product": "Extended Warranty",
+        "amount": 544.11,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-021-03",
+        "date": "2025-12-16",
+        "product": "Enterprise License - Annual",
+        "amount": 893.6,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-021-02",
+        "date": "2026-07-14",
+        "product": "Data Migration Service",
+        "amount": 80.72,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0022",
+    "name": "John Rodriguez",
+    "email": "john.rodriguez@example.com",
+    "phone": "+1-232-750-5446",
+    "company": "Umbrella Corp",
+    "signup_date": "2023-04-12",
+    "status": "inactive",
+    "total_orders": 1,
+    "lifetime_value": 0,
+    "orders": [
+      {
+        "order_id": "ORD-022-01",
+        "date": "2026-02-21",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 635.13,
+        "status": "refunded"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0023",
+    "name": "Hannah Davis",
+    "email": "hannah.davis@example.com",
+    "phone": "+1-651-913-5660",
+    "company": "Wonka Industries",
+    "signup_date": "2025-05-10",
+    "status": "active",
+    "total_orders": 7,
+    "lifetime_value": 3165.94,
+    "orders": [
+      {
+        "order_id": "ORD-023-01",
+        "date": "2025-07-25",
+        "product": "Onboarding & Training Package",
+        "amount": 831.01,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-023-07",
+        "date": "2026-01-08",
+        "product": "API Access Bundle",
+        "amount": 153.04,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-023-06",
+        "date": "2026-01-12",
+        "product": "Widget Replacement Part",
+        "amount": 689.41,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-023-05",
+        "date": "2026-01-17",
+        "product": "Standard Widget Kit",
+        "amount": 145.54,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-023-03",
+        "date": "2026-01-30",
+        "product": "Standard Widget Kit",
+        "amount": 240.75,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-023-04",
+        "date": "2026-02-16",
+        "product": "Premium Support Package",
+        "amount": 664.35,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-023-02",
+        "date": "2026-05-09",
+        "product": "Extended Warranty",
+        "amount": 594.88,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0024",
+    "name": "Brian Jones",
+    "email": "brian.jones@example.com",
+    "phone": "+1-204-305-9027",
+    "company": "Globex Corp",
+    "signup_date": "2022-12-29",
+    "status": "active",
+    "total_orders": 5,
+    "lifetime_value": 1027.4,
+    "orders": [
+      {
+        "order_id": "ORD-024-04",
+        "date": "2023-12-18",
+        "product": "Extended Warranty",
+        "amount": 610.92,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-024-05",
+        "date": "2024-05-24",
+        "product": "Enterprise License - Annual",
+        "amount": 340.75,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-024-03",
+        "date": "2025-11-03",
+        "product": "Pro Widget Kit",
+        "amount": 636.08,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-024-01",
+        "date": "2025-12-09",
+        "product": "Extended Warranty",
+        "amount": 639.43,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-024-02",
+        "date": "2026-01-13",
+        "product": "Premium Support Package",
+        "amount": 50.57,
+        "status": "shipped"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0025",
+    "name": "Joshua Davis",
+    "email": "joshua.davis@example.com",
+    "phone": "+1-663-856-5558",
+    "company": null,
+    "signup_date": "2020-05-18",
+    "status": "active",
+    "total_orders": 7,
+    "lifetime_value": 2203.49,
+    "orders": [
+      {
+        "order_id": "ORD-025-03",
+        "date": "2020-07-09",
+        "product": "Extended Warranty",
+        "amount": 104.16,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-025-02",
+        "date": "2020-11-07",
+        "product": "Extended Warranty",
+        "amount": 870.78,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-025-07",
+        "date": "2023-10-28",
+        "product": "Standard Widget Kit",
+        "amount": 280.99,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-025-05",
+        "date": "2024-02-03",
+        "product": "Priority Support Upgrade",
+        "amount": 123.64,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-025-01",
+        "date": "2024-06-22",
+        "product": "Custom Integration Service",
+        "amount": 51.34,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-025-04",
+        "date": "2025-04-09",
+        "product": "Standard Widget Kit",
+        "amount": 741.17,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-025-06",
+        "date": "2026-02-11",
+        "product": "Data Migration Service",
+        "amount": 31.41,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0026",
+    "name": "Laura Thomas",
+    "email": "laura.thomas@example.com",
+    "phone": "+1-305-441-1127",
+    "company": "Northwind Traders",
+    "signup_date": "2024-04-23",
+    "status": "active",
+    "total_orders": 4,
+    "lifetime_value": 2389.17,
+    "orders": [
+      {
+        "order_id": "ORD-026-02",
+        "date": "2024-09-13",
+        "product": "API Access Bundle",
+        "amount": 741.39,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-026-01",
+        "date": "2025-07-01",
+        "product": "Pro Widget Kit",
+        "amount": 426.71,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-026-03",
+        "date": "2025-10-27",
+        "product": "Premium Support Package",
+        "amount": 431.38,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-026-04",
+        "date": "2025-11-15",
+        "product": "Data Migration Service",
+        "amount": 789.69,
+        "status": "cancelled"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0027",
+    "name": "Chloe Brown",
+    "email": "chloe.brown@example.com",
+    "phone": "+1-838-327-4365",
+    "company": "Bluth Company",
+    "signup_date": "2022-05-11",
+    "status": "active",
+    "total_orders": 6,
+    "lifetime_value": 2694.43,
+    "orders": [
+      {
+        "order_id": "ORD-027-02",
+        "date": "2022-07-01",
+        "product": "Enterprise License - Annual",
+        "amount": 601.19,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-027-03",
+        "date": "2022-08-13",
+        "product": "Data Migration Service",
+        "amount": 517.06,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-027-05",
+        "date": "2022-08-21",
+        "product": "Premium Support Package",
+        "amount": 818.57,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-027-01",
+        "date": "2023-01-03",
+        "product": "Standard Widget Kit",
+        "amount": 650.16,
+        "status": "refunded"
+      },
+      {
+        "order_id": "ORD-027-06",
+        "date": "2024-03-07",
+        "product": "Priority Support Upgrade",
+        "amount": 46.83,
+        "status": "cancelled"
+      },
+      {
+        "order_id": "ORD-027-04",
+        "date": "2024-08-08",
+        "product": "Analytics Dashboard Add-on",
+        "amount": 710.78,
+        "status": "cancelled"
+      }
+    ]
+  },
+  {
+    "id": "CUST-0028",
+    "name": "Rachel Martinez",
+    "email": "rachel.martinez@example.com",
+    "phone": "+1-623-561-2758",
+    "company": "Umbrella Corp",
+    "signup_date": "2021-12-10",
+    "status": "active",
+    "total_orders": 3,
+    "lifetime_value": 1271.83,
+    "orders": [
+      {
+        "order_id": "ORD-028-03",
+        "date": "2023-12-05",
+        "product": "Pro Widget Kit",
+        "amount": 432.48,
+        "status": "completed"
+      },
+      {
+        "order_id": "ORD-028-01",
+        "date": "2025-02-04",
+        "product": "Priority Support Upgrade",
+        "amount": 182.15,
+        "status": "processing"
+      },
+      {
+        "order_id": "ORD-028-02",
+        "date": "2026-05-09",
+        "product": "Widget Maintenance Plan",
+        "amount": 657.2,
+        "status": "shipped"
+      }
+    ]
+  }
+]
